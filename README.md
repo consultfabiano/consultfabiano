@@ -5,7 +5,7 @@
 
 ### About me
 
-
-- [Courses](https://www.alura.com.br/curso-online-nodejs-api-rest-padronizada-escalavel) 👨🏼‍🏫 - It's are technical courses on many technologies, such as JavaScript, Express, Java, Spring, Git and more
+Alguns cursos realizados - Some courses taken
+- [Courses - API Node JS](https://www.alura.com.br/curso-online-nodejs-api-rest-padronizada-escalavel) 👨🏼‍🏫 - It's are technical courses on many technologies, such as JavaScript, Express, Java, Spring, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
